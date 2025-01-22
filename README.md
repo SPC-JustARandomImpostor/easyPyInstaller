@@ -2,6 +2,8 @@ hey.
 
 this is basically PyInstaller except for users who dont know how to manually type out the command.
 
+if you dont know what PyInstaller is, it basically converts python files into executable files.
+
 oh and by the way you (obvuisly) need pyinstaller aswell!
 
 enter "pip install PyInstaller" into your terminal.
